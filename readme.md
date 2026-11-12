@@ -31,7 +31,7 @@ mvn spotless:check
 ```
 
 # h01{
-# t1: ![img.png](src/main/java/homework/h01/img.png)
-# t2: ![img_1.png](src/main/java/homework/h01/img_1.png)
-# problem: ![img_2.png](src/main/java/homework/h01/img_2.png)
+# t1: ![img.png](Img/img.png)
+# t2: ![img_1.png](Img/img_1.png)
+# problem: ![img_2.png](Img/img_2.png)
 # }
