@@ -11,7 +11,7 @@ public class T2 {
 
       int num = 0;
 
-      if (s.charAt(i) == 'I') {
+      if ((i) == 'I') {
         num = 1;
       } else if (s.charAt(i) == 'V') {
         num = 5;

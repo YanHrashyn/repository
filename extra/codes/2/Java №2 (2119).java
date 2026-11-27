@@ -6,7 +6,6 @@ class Solution {
         int reversed2 = reverse(reversed1);
         return reversed2 == num;
     }
-
     private int reverse(int x) {
         int res = 0;
         while (x > 0) {
